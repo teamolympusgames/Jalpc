@@ -15,6 +15,7 @@ author:  # change following line to your infomation.
   first_name: Lord  # Be used at index page about me section.
   last_name: Lincoln  # Be used at index page about me section.
   youtube_username: LordLincoln
+  youtube_channelid: UCw13hvWfVD0EB4Pe4S3b8-Q
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   desc: Introduce myself will be here.  # Describe yourself.
